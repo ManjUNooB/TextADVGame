@@ -13,5 +13,30 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="ソース ファイル\App">
+      <UniqueIdentifier>{b0c7f0fa-6e60-4af3-b073-edfc69bdee3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\System">
+      <UniqueIdentifier>{2c57c2b4-e5ac-4c7e-beda-d195925bf314}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\App">
+      <UniqueIdentifier>{697d97ad-9101-4ede-8d79-1a447c3fb6f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\System">
+      <UniqueIdentifier>{2eb3d8cc-6a11-4888-a7e6-b9c3e53db819}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Startup.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Defines.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="System\Main.h">
+      <Filter>ヘッダー ファイル\System</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
