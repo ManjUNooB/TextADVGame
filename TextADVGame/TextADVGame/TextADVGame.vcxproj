@@ -145,6 +145,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Startup.cpp" />
+    <ClCompile Include="System\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Defines.h" />
