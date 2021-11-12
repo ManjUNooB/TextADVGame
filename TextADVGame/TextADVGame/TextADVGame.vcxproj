@@ -145,10 +145,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Startup.cpp" />
+    <ClCompile Include="System\Input.cpp" />
     <ClCompile Include="System\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Defines.h" />
+    <ClInclude Include="System\Input.h" />
     <ClInclude Include="System\Main.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

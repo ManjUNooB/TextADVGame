@@ -24,4 +24,27 @@ HRESULT Init(HWND hWnd, UINT width, UINT height)
 	//ASSERT_FAILED(InitDx(hWnd, width, height, false)); DirectX初期化
 	//ASSERT_FAILED(InitGeometory());	//ジオメトリ初期化
 	//ASSERT_FAILED(InitInput());	//入力初期化
+	//ggfbx::Initialize();	//FBX関連の初期化
+	//CameraManager::Initiate();	//カメラマネージャーのインスタンス化
+	//SceneManager::CreateInstance();	//シーンマネージャーのインスタンス作成
+	//SCENE->Load<>();	//シーンのロード
+
+	return hr;
 }
+
+void Uninit()
+{
+	
+}
+
+void Update()
+{
+
+}
+
+void Draw()
+{
+
+}
+
+//	EOF
