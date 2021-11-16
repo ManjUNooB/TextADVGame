@@ -25,6 +25,30 @@
     <Filter Include="ヘッダー ファイル\System">
       <UniqueIdentifier>{2eb3d8cc-6a11-4888-a7e6-b9c3e53db819}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\System\Camera">
+      <UniqueIdentifier>{8dcde6dc-f66e-4fce-bde4-d4897ff6bc95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\System\FBX">
+      <UniqueIdentifier>{64b1c66c-3519-49e1-8f06-fb55c835e6e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\System\Graphics">
+      <UniqueIdentifier>{a725c181-1221-44c5-8d50-303fa73d4c51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\System\Scene">
+      <UniqueIdentifier>{01c15d01-a53a-4628-be39-c0d13d8d7e69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\System\Camera">
+      <UniqueIdentifier>{617a364f-8439-4fb1-97ce-8682f393dace}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\System\FBX">
+      <UniqueIdentifier>{5e66e777-449e-4f4c-ad81-b9071f8a2456}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\System\Graphics">
+      <UniqueIdentifier>{5985eb52-ddf1-4470-831e-6eba5149aea2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\System\Scene">
+      <UniqueIdentifier>{214ad85b-e44b-4961-8c17-59deb12913c4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Startup.cpp">

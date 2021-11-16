@@ -7,7 +7,7 @@ HRESULT InitInput();
 void UninitInput();
 void UpdateInput();
 
-//void InstantForceInput(int nKey, bool bPress);	//これ多分移動系のインプットじゃないかな？？
+void InstantForceInput(int nKey, bool bPress);	//これ多分移動系のインプット??
 
 bool IsKeyPress(int nKey);
 bool IsKeyTrigger(int nKey);
